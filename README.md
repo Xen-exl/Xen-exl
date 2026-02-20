@@ -1,12 +1,4 @@
 <div align="center">
-  <!-- Logo dengan efek neon glow -->
-  <img 
-    src="https://raw.githubusercontent.com/Xen-MY/XEN-MY/refs/heads/main/XenLogo.jpg" 
-    alt="XEN Logo" 
-    width="180" 
-    style="filter: drop-shadow(0 0 25px #00FFFF) drop-shadow(0 0 50px #00FFAA); margin: 40px 0 20px;"
-  >
-  
   <!-- Judul XEN dengan gradient neon -->
   <h1 style="
     font-family: 'Orbitron', sans-serif;
