@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Logo dengan efek neon glow -->
   <img 
-    src="https://github.com/Xen-MY/Xen-MY/raw/main/logo.png](https://raw.githubusercontent.com/Xen-MY/XEN-MY/refs/heads/main/XenLogo.jpg" 
+    src="https://raw.githubusercontent.com/Xen-MY/XEN-MY/refs/heads/main/XenLogo.jpg" 
     alt="XEN Logo" 
     width="180" 
     style="filter: drop-shadow(0 0 25px #00FFFF) drop-shadow(0 0 50px #00FFAA); margin: 40px 0 20px;"
