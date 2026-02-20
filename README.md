@@ -1,48 +1,111 @@
 <div align="center">
-  <!-- Judul XEN dengan gradient neon -->
-  <h1 style="
-    font-family: 'Orbitron', sans-serif;
-    font-size: 5em;
-    background: linear-gradient(90deg, #00FFFF, #00FFAA, #7C3AED);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    text-shadow: 0 0 15px #00FFFF;
-    margin: 0 0 20px;
-    letter-spacing: 4px;
-  ">
-    XEN
-  </h1>
-  
-  <p style="font-size: 1.4em; color: #cccccc; margin-bottom: 60px;">
-    Front-End Developer • Custom Web Solutions • Malaysia & Global
-  </p>
+<!-- Animated Title -->
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=48&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=XEN" />
+</h1>
+
+<!-- Animated Subtitle -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=600&lines=Front-End+Engineer;Clean+UI+Architecture;Performance+Focused;Minimal+but+Intentional" />
+
 </div>
-
-### About
-
-I'm Xen — a front-end developer dedicated to creating clean, fast, and responsive digital experiences.
-
-I specialize in building custom web interfaces from the ground up using modern JavaScript technologies. My focus is on performance, user experience, accessibility, and seamless integration — particularly suited for e-commerce platforms, tourism sites, service-based businesses, and digital products in Malaysia and beyond.
-
-I believe in quality over quantity: every line of code matters, and every pixel is intentional.
-
-### Skills
-
-<div align="center" style="margin: 40px 0;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,git,vercel,figma,vscode,github" alt="Skills" />
-</div>
-
-
-### Connect / Hubungi Saya
-
-Open to meaningful conversations, project discussions, or collaborations.
-
-- 📧 Email:   
-- 🔗 LinkedIn: 
-- 🐦 X (Twitter):   
-- 🌐 Portfolio: (in progress)
-
-Feel free to reach out.
 
 ---
-Crafting clean interfaces with precision.
+
+## 🧠 About
+
+<img align="right" width="280" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
+```js
+const xen = {
+  role: "Front-End Engineer",
+  specialization: ["React", "Next.js", "TypeScript"],
+  focus: ["Performance", "Scalable UI", "Clean Architecture"],
+  approach: "build simple, fast, and intentional interfaces"
+}
+```
+I build modern web interfaces with a strong focus on structure, speed, and clarity.
+My work emphasizes maintainable architecture, responsive design, and efficient rendering.
+
+Focused on creating systems that are not only functional, but precise and reliable.
+
+<br clear="right"/>
+
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+### 💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" />
+</p>
+
+---
+
+### 🛠 Backend & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python" /><br/>
+  <img src="https://skillicons.dev/icons?i=github,vercel,vscode" />
+</p>
+
+</div>
+
+---
+
+## 🖥️ Environment
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Booting+development+environment...;Loading+React+and+Next.js...;System+ready." />
+
+</div>
+
+---
+
+## ⚡ Core
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xen-exl&theme=github_dark"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Xen-exl&theme=react-dark&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+## 🧠 Core Principles
+
+```bash
+> values.list()
+
+[1] Performance-first development
+[2] Accessibility by design
+[3] Fully responsive systems
+[4] Clean, scalable architecture
+[5] Business-aligned implementation
+
+> integrity = true
+```
+
+---
+
+## 🔗 Connect
+
+```bash
+user@xen:~$ contact.info
+
+email      → xxxxxxx
+linkedin   → xxxxxxx
+x          → xxxxxxx
+portfolio  → xxxxxxx
+
+status     → open to meaningful builds
+```
