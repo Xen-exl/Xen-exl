@@ -45,7 +45,7 @@ Focused on creating systems that are not only functional, but precise and reliab
 
 ### 🛠 Backend & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,php" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,php,java" /><br/>
   <img src="https://skillicons.dev/icons?i=github,vercel,vscode,mysql" />
 </p>
 
